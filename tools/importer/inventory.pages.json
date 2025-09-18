@@ -1,0 +1,476 @@
+{
+  "templates": [
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/r-d.html",
+          "uuid": "f13600bb5d4f7293dba39955ce6e1dd093f0d176"
+        },
+        {
+          "url": "https://www.astrazeneca.com/publication.html",
+          "uuid": "837d98cf3d61dd82d352e2e5d932cfe3d626a21d"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas.html",
+          "uuid": "4b0869c5841c1eb4caf38510ae9beb2c1dcb220e"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/confirmation.html",
+          "uuid": "867ef09ee11577de53aac0974a13f428f9636389"
+        },
+        {
+          "url": "https://www.astrazeneca.com/government-contract-t-cs.html",
+          "uuid": "aaa404414debc656b470e7b38212cdc457aba6ff"
+        },
+        {
+          "url": "https://www.astrazeneca.com/astrazeneca-exchange.html",
+          "uuid": "31ef1b2f96cec4c9eba7a188f2e86d5072275270"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes.html",
+          "uuid": "a70b827d4d441c82326210d1762cc0c716a781a0"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/order-instrument.html",
+          "uuid": "714e8f0821ff8d9f6146f17834a0b271dbab62ea"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/contact-us.html",
+          "uuid": "c5064e5233f959e42bc64664ce312a118703095e"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/faqs.html",
+          "uuid": "31b48564b6b4eabf24f3284bcccc4218589c82cc"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/gastrointestinal.html",
+          "uuid": "168e3f3ee8646c554615b1184ef3689c2649061f"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/respiratory.html",
+          "uuid": "7be3f2117644743288dbc0ca4c33c3500103d58b"
+        },
+        {
+          "url": "https://www.astrazeneca.com/patient-reported-outcomes/cardiovascular.html",
+          "uuid": "676941109a4b9360300e6d9b9515fc14b5d2462e"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Multipurpose Template'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/latest-update.html",
+          "uuid": "f3a8e77830b71c2297944a6e847792b1060ec1b1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier.html",
+          "uuid": "3ead70c0c95ff959e114278689c39ca6855a0cf2"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/japanese-suppliers.html",
+          "uuid": "9ba41056902fad3198db2b04711be651d4f797c5"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq.html",
+          "uuid": "9cb84bedb5f7f08acb4e4b6483163e64d80a3d06"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/supplier-contact-information.html",
+          "uuid": "dbb14d23ae12ac40612761d2c6bef72eceb52aa1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/SAN.html",
+          "uuid": "2668d0514c90ffc63191725a7390fbe49861fa02"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/cXML-invoices.html",
+          "uuid": "70cf3362c34adf04d63986e73d755c78d2a37326"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/coupa-supplier-portal.html",
+          "uuid": "39a7a38c3bbd5437f1ccd405f165a3eb35dd9d71"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/Supplier-Actionable-Notification.html",
+          "uuid": "21a939aae4788da274ca0389a59a91dd707ac365"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/CSP-linked.html",
+          "uuid": "758da2ada74e200e6223ca13f42cf3abedf1e3cd"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/CSP.html",
+          "uuid": "854c183ac58ae40dd866a625dc940c4233951f4c"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/faq/CSP.html",
+          "uuid": "e135fcaf84169608cad6f61441b72d9586ad1a34"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/mexican-suppliers.html",
+          "uuid": "5c3afd777db36b32d20c4b22b02495256a9f15a3"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/selected-suppliers-page.html",
+          "uuid": "25dbefeb7754e1d5f8754f4a0ea6fb18131e40cd"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/french-suppliers.html",
+          "uuid": "989610efeb6c3f7fd52497ef293fbc8b9684dfb1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/brazil-suppliers.html",
+          "uuid": "4633a81a5131edb665f2750b29e0f1d242bcdfd3"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/spanish-suppliers.html",
+          "uuid": "04568bc00b8628fa582da0ffc3a3d0614db3fa96"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/german-suppliers.html",
+          "uuid": "a626a53e669fad26205d3028517d30bf8530ad67"
+        },
+        {
+          "url": "https://www.astrazeneca.com/az-suppliers/az-coupa-supplier/sweden-suppliers.html",
+          "uuid": "764a0541aec05a51eebeb1b2241cdadffb8ce639"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Multipurpose Template'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/medicines.html",
+          "uuid": "eba7ec1a12db4a61eb1ef2d76ae8d8857be9961e"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/biopharmaceuticals.html",
+          "uuid": "6b36adc4f20c2cdd0a5ce6a82de01a0b6b32a5b0"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology/lupus.html",
+          "uuid": "3a1713849c089cbbd660c1cb3d6285277d591344"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/rare-disease.html",
+          "uuid": "faa62a469867993ad01d1e0a6bf390d1adc46379"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/pipeline.html",
+          "uuid": "d28e079c71e83acd1bd205885d98ee40e8425379"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology.html",
+          "uuid": "1d6e28da4ac556c8af9dc7e400b85f197e7eaec9"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies.html",
+          "uuid": "744e73954e6676bf445dbe843e3bbfd5325d73ba"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology.html",
+          "uuid": "7d1ac9e08ad208cb37bf7b0434dc250b5699bcfe"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism.html",
+          "uuid": "23b21fafd78abec009abb524b851e21b01d1c11e"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Multi-Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/medicines-portfolio-and-pipeline.html",
+          "uuid": "f41e653cc122e6fcf2f827597f92677505c2945d"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/at-the-forefront-of-lung-cancer-treatment.html",
+          "uuid": "1ad6c835cf4976afff5220f05bb1237f361324b8"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/breast-cancer.html",
+          "uuid": "4b29b959ba991c5c0b8f5097e56003e98b14a7f6"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/ovarian-cancer.html",
+          "uuid": "f9f4f84e8d794aae29bbef84cd7d2b063b886f13"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/prostate-cancer.html",
+          "uuid": "2f8724153f342caeed21ef6311a4d8de714c236b"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/Liver-cancer.html",
+          "uuid": "f5d200178da7956b902723b27b676a5039c0ca72"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/dna-damage-response.html",
+          "uuid": "80cb5def3649cfd2d279f533e23af38af74ce105"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/our-people-and-culture.html",
+          "uuid": "4b5952cc0a9e5f567d7298f920745767bfea8303"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/clinical-strategy.html",
+          "uuid": "dbdf2685f5819326c86c8932547981eb98e565de"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/leading-the-revolution-in-pancreatic-cancer.html",
+          "uuid": "6fd877f8f3e8ecde9c174362d79901bd328eb186"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/haematology.html",
+          "uuid": "9c6f967fcc249351fe57cf1aa5f605274043af4b"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/patient-experience.html",
+          "uuid": "6a560f8fac0709137753ea188308a840bd4d1394"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/oncology/immuno-oncology.html",
+          "uuid": "73b53f14d97d62ff3c8f29484755012c79a09083"
+        }
+      ]
+    },
+    {
+      "name": "Multi-purpose Content Hub",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/r-d/precision-medicine.html",
+          "uuid": "e705d71a7405a11282ddd5d21f85f0b4fc3aaa0e"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics.html",
+          "uuid": "ec3046760900535f65102002632a5f47eede644f"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-approach/stem-at-astrazeneca.html",
+          "uuid": "14690ceea5f2ce83147e54fd11ab53c28d506c65"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/functional-genomics.html",
+          "uuid": "3dbd04c34305f96c3d6b6916b7c51d3570e72fec"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/genomics.html",
+          "uuid": "acfaf77af74fd6f1ea802eb4237b22c537cfddcb"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-approach.html",
+          "uuid": "e8ee8b4820d486dae4dcea6f0587b3a1874f95bb"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/clinical-innovation.html",
+          "uuid": "0f2bac583c11adbec8ecfebd76ee3a89f8391d01"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/data-science-and-ai.html",
+          "uuid": "661a70cb2fc16cfa857b262a2c1323820ff39ba4"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/respiratory-and-immunology/epithelial-science.html",
+          "uuid": "f18fe6c650973a5bdad20b4c3ea37069b63f6540"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/eosinophilic-inflammation.html",
+          "uuid": "81de9d53dfb63b55f831694d0df2f3d88e2ed8d9"
+        }
+      ]
+    },
+    {
+      "name": "'Content Hub'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/metabolism.html",
+          "uuid": "718cc55479afe9175958ad751f61a90727242bdd"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/renal.html",
+          "uuid": "cbe19d9f28a3913724122f3f2be63d099afdb04e"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/heart-failure.html",
+          "uuid": "f68fbd436d0fc03c3950172608e344ee19ebb5ad"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/cardiovascular-renal-and-metabolism/cardiovascular-disease.html",
+          "uuid": "efc8da7750db7d0f208eab1e8c8e8d67926db80a"
+        }
+      ]
+    },
+    {
+      "name": "'Magazine Layout'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/",
+          "uuid": "ecda591b69347eb7a8a22676c8ef671a2a80646c"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Website Template'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/r-d/digital-health-revolutionising-healthcare-for-patients.html",
+          "uuid": "bd91f519a266ab2c46d109fcc9c12fd542168de4"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/glossary.html",
+          "uuid": "53a7468a012b819cb34ec621e3d6b0b8f6e05ae1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/transformative-science.html",
+          "uuid": "24a390fae35d9ba61784c8880696f493e00d2fd0"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies.html",
+          "uuid": "e7845bef8eb895fc9590a19b4a53efd1bb0023fd"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-strategic-r-d-centres.html",
+          "uuid": "60b1bfa1d05bd626934fa75d0c0deb2f3f70a4cd"
+        }
+      ]
+    },
+    {
+      "name": "'Content Dashboard'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/covid-19.html",
+          "uuid": "6c7c5210a03d1cdf8563234c35b981873bd606c2"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/respiratory-syncytial-virus.html",
+          "uuid": "e226f875441c5c8be8520434a8f489b42ead05a1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/our-therapy-areas/vaccines-and-immune-therapies/hMPV.html",
+          "uuid": "aeb1b3286cf90b19bb841aec7a2114fdb034b3ef"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-section Form Template'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/cell-therapies.html",
+          "uuid": "0b6a3ae410b760595dea04668cb5f8e71c692384"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/nucleotide-based-therapeutics.html",
+          "uuid": "21b36cc5dc5e3a8bc5d6575a12e4eac9ebbe3cb3"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/multispecifics.html",
+          "uuid": "6828ba42ba177dc1c1fb1cd9b89cd1dc892258bf"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/gene-therapy.html",
+          "uuid": "0063a456dcbf4af1e293a0a579bb018d16290cfd"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/radioconjugates.html",
+          "uuid": "4fffd55cd7d02c7739cc520117af2fcf41ce0e94"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/antibody-drug-conjugate.html",
+          "uuid": "8ab08aea896774b800b109fada0a8d8060c067f8"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/protacs.html",
+          "uuid": "fa4ee3a17931a9a663f1bac4c1d1de981ed6832d"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/T-cell-engager.html",
+          "uuid": "54110a609eef621083b78be4f5a00cf7e518cfa5"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/bispecific-antibody.html",
+          "uuid": "469b40f0775dfe347431942aea6be52e3ffa0aa0"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/therapeutic-proteins.html",
+          "uuid": "2a4d51dee4031193a942287c68b41739e40eed6f"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/in-vivo-expressed-biologics.html",
+          "uuid": "ee4346aa608bf4273546895f56e5868a7884e5f8"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/anticalin-proteins.html",
+          "uuid": "66bfcd779ba647a08249323015082fceeb738c88"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/monoclonal-antibodies.html",
+          "uuid": "8fa3c9bdb4557d2ac7aaf9a15371bf42af9aefd7"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/small-molecule.html",
+          "uuid": "64190af049ebf2a5abc589c0f591911c8c5877b1"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/fragment-antibody.html",
+          "uuid": "5805f00a7a149791ee80f4ca56cc81f21360b05c"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/sodium-zirconium-cyclosilicate.html",
+          "uuid": "0d85af9ef74a5e19145d2eef8b72e4f1f4cdd1ba"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/next-generation-therapeutics/bicyclic-peptides.html",
+          "uuid": "de58e29b1c5bf9ec1907434cf133d3bd62fbeff2"
+        }
+      ]
+    },
+    {
+      "name": "'Form Submission Page'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/machine-learning-drug-discovery.html",
+          "uuid": "bc08861fa85a1bd51f6cb5f94debc7b51013577d"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/advanced-molecular-imaging.html",
+          "uuid": "5278082bd9bd9e7f5a4ee3c4881b1e54f8815e79"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/ilab.html",
+          "uuid": "5f5132c8c22fb01cd0caaf57e64d312537d2c827"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/multi-omics.html",
+          "uuid": "d0d1f9fccff6eb2d7eb974a76464764425385111"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/cryo-em.html",
+          "uuid": "3ab672f1401bee40f0d6b20c70dfbd7935168b6c"
+        },
+        {
+          "url": "https://www.astrazeneca.com/r-d/our-technologies/acoustic-tube-sample-management.html",
+          "uuid": "84d440feb3393987414eabb8d7f59bccad0a9c88"
+        }
+      ]
+    }
+  ]
+}

@@ -1787,7 +1787,8 @@
           "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[3]",
           "section": "section-12"
         }
-      ]
+      ],
+      "key": "unknown10"
     },
     {
       "name": "Cards",
@@ -2349,7 +2350,8 @@
           "uuid": "837d98cf-04-98aa5af5c9f8d5b5717af4a7c3c8e16dbc81dfe1",
           "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[3]/section[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]"
         }
-      ]
+      ],
+      "key": "unknown26"
     },
     {
       "name": "Cards",
@@ -2466,7 +2468,8 @@
           "uuid": "f3a8e778-07-63097d8caff778613a8a1e94b95ec9cb546fe850",
           "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[3]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown31"
     },
     {
       "name": "Columns",
@@ -4586,7 +4589,8 @@
           "uuid": "6c7c5210-25-24d9ac9051757c807a7fd5d3b454de163526d0e8",
           "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[4]"
         }
-      ]
+      ],
+      "key": "unknown44"
     },
     {
       "name": "Table (striped)",
@@ -7116,7 +7120,8 @@
           "xpath": "/html[1]/body[1]/div[3]/section[1]/div[1]/div[3]",
           "section": "section-12"
         }
-      ]
+      ],
+      "key": "unknown161"
     },
     {
       "name": "Columns",
